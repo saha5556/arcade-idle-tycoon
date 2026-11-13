@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: e6fe93e81c14bc64f825ffdde1954198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8898697533811706722
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_0
+  - first:
+      213: -1255420590920109737
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_1
+  - first:
+      213: -6513836672466396820
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_2
+  - first:
+      213: 5520077654270227967
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_3
+  - first:
+      213: -5632720877029994439
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_4
+  - first:
+      213: 4716022776356304574
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_5
+  - first:
+      213: -7589786383517004706
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_6
+  - first:
+      213: 6114181188738018272
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_7
+  - first:
+      213: 5534194617905145593
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_8
+  - first:
+      213: -8451701318245615408
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_9
+  - first:
+      213: 7916014071458434440
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_10
+  - first:
+      213: 3437013604902932609
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_11
+  - first:
+      213: 3371630019871041999
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_12
+  - first:
+      213: -3071938181663396083
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_13
+  - first:
+      213: 1396177223317918284
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_14
+  - first:
+      213: -2331757611418821731
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_15
+  - first:
+      213: -106328009331474315
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_16
+  - first:
+      213: 6041864758590163032
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_17
+  - first:
+      213: -3511813861701808597
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_18
+  - first:
+      213: 5734128383311915564
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_19
+  - first:
+      213: -3397727802957318422
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_20
+  - first:
+      213: -7617709408268204095
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_21
+  - first:
+      213: -9049630646594938099
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_22
+  - first:
+      213: 5889818512910019080
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_23
+  - first:
+      213: -8475964930516154142
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_24
+  - first:
+      213: -8054469411699473395
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_25
+  - first:
+      213: -5548459088243775876
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_26
+  - first:
+      213: 4386809816053890610
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_27
+  - first:
+      213: -9011873423139047058
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_28
+  - first:
+      213: -4439832362789492760
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_29
+  - first:
+      213: 5136750976059008064
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_30
+  - first:
+      213: -3506401072315730079
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_31
+  - first:
+      213: 6645579518770397175
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_32
+  - first:
+      213: 3468014879520631179
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_33
+  - first:
+      213: 4833231127806015390
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_34
+  - first:
+      213: 7732813078600956548
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_35
+  - first:
+      213: 1905372031406901882
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_36
+  - first:
+      213: -4778290038360408424
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_37
+  - first:
+      213: -1003163744650266718
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_38
+  - first:
+      213: 7122462534318104718
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_39
+  - first:
+      213: -3094798493324850780
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_40
+  - first:
+      213: 7097473312450481812
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_41
+  - first:
+      213: -6618729488815782044
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_42
+  - first:
+      213: -7148279643545471908
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_43
+  - first:
+      213: 8771063323288054188
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_44
+  - first:
+      213: 2733769560826182357
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_45
+  - first:
+      213: 6391654213697974710
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_46
+  - first:
+      213: 6010619833529420313
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_47
+  - first:
+      213: -3716639476177661695
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_48
+  - first:
+      213: 8431342327825135073
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_49
+  - first:
+      213: -2186794549295133176
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_50
+  - first:
+      213: -7587825133366859587
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_51
+  - first:
+      213: 7981635369838488993
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_52
+  - first:
+      213: 2428584421286626858
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_53
+  - first:
+      213: -858594785756963792
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_54
+  - first:
+      213: 2455228803857335256
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_55
+  - first:
+      213: 1559422439169821093
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_56
+  - first:
+      213: -1557948339356665260
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_57
+  - first:
+      213: -8515111897826611592
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_58
+  - first:
+      213: -846936217797974300
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_59
+  - first:
+      213: 3462260725207387415
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_60
+  - first:
+      213: -7637284617094874051
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_61
+  - first:
+      213: 1616698998964380824
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_62
+  - first:
+      213: 4226890500310428924
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_63
+  - first:
+      213: -4725194344029307434
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_64
+  - first:
+      213: -5693199084073473032
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_65
+  - first:
+      213: -1032491955805883278
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_66
+  - first:
+      213: -3058323480403564730
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_67
+  - first:
+      213: -2708863855366301857
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_68
+  - first:
+      213: 1765863190460572631
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_69
+  - first:
+      213: 173054366194867699
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_70
+  - first:
+      213: -3735711897732516636
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_71
+  - first:
+      213: 7186507157125863833
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_72
+  - first:
+      213: 48935852924826941
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_73
+  - first:
+      213: -1972330088781488107
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_74
+  - first:
+      213: 4441598028145512217
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_75
+  - first:
+      213: -8538709720014177367
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_76
+  - first:
+      213: -111104752824511821
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_77
+  - first:
+      213: 5140152338145242531
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_78
+  - first:
+      213: 9102130625622900817
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_79
+  - first:
+      213: -8764947908147320061
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_80
+  - first:
+      213: -4295139547031734755
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_81
+  - first:
+      213: 1406885183290505019
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_82
+  - first:
+      213: -8662330130940952944
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_83
+  - first:
+      213: 8156200707574414664
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_84
+  - first:
+      213: 3533778486319657990
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_85
+  - first:
+      213: -4217876210194073999
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_86
+  - first:
+      213: -3149722218274027553
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_87
+  - first:
+      213: 4538756022453744469
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_88
+  - first:
+      213: -370370133744768868
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_89
+  - first:
+      213: 922437287362405584
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_90
+  - first:
+      213: -410934758650564297
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_91
+  - first:
+      213: -8485635903187383432
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_92
+  - first:
+      213: 8876329088380945941
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_93
+  - first:
+      213: 598585861254068265
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_94
+  - first:
+      213: -4284471881351173907
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_95
+  - first:
+      213: 257147639093479776
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_96
+  - first:
+      213: 1128011566065497342
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_97
+  - first:
+      213: -1264694542936817641
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_98
+  - first:
+      213: 4535294064825392681
+    second: topdown_modern_convenience_store_core_clean_tilesheet_packed_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2231
+        width: 221
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9432858db9718480800000000000000
+      internalID: -8898697533811706722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2237
+        width: 226
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fe72cf99d39ee0800000000000000
+      internalID: -1255420590920109737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2238
+        width: 134
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c695ab4ee043a95a0800000000000000
+      internalID: -6513836672466396820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2243
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5395341614b9c40800000000000000
+      internalID: 5520077654270227967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_4
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2243
+        width: 269
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93053bda43e84d1b0800000000000000
+      internalID: -5632720877029994439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_5
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2243
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67e518abda27140800000000000000
+      internalID: 4716022776356304574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2243
+        width: 188
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4f512f79aba690800000000000000
+      internalID: -7589786383517004706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_7
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2244
+        width: 266
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebea17956fe9d450800000000000000
+      internalID: 6114181188738018272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_8
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2246
+        width: 233
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f66d1efea86dcc40800000000000000
+      internalID: 5534194617905145593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_9
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 2250
+        width: 165
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f44a1e6685ba80800000000000000
+      internalID: -8451701318245615408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1945
+        width: 219
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d064e6bd45bdd60800000000000000
+      internalID: 7916014071458434440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1945
+        width: 210
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809c60e9a9b2bf20800000000000000
+      internalID: 3437013604902932609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1945
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e470b3af6ace20800000000000000
+      internalID: 3371630019871041999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1945
+        width: 147
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f6ef5ef784e55d0800000000000000
+      internalID: -3071938181663396083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1947
+        width: 206
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c421b5f89c7306310800000000000000
+      internalID: 1396177223317918284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_15
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1951
+        width: 193
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b511d7ecee3afd0800000000000000
+      internalID: -2331757611418821731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_16
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1952
+        width: 193
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5708f162d3f368ef0800000000000000
+      internalID: -106328009331474315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_17
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1952
+        width: 158
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c7bc9cf309d350800000000000000
+      internalID: 6041864758590163032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_18
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1952
+        width: 148
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e88ff26e7834fc0800000000000000
+      internalID: -3511813861701808597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_19
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1952
+        width: 146
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aaac74267b39f40800000000000000
+      internalID: 5734128383311915564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_20
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1954
+        width: 226
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b24da098d8d0d0800000000000000
+      internalID: -3397727802957318422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_21
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1955
+        width: 238
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c50e47a5784690800000000000000
+      internalID: -7617709408268204095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1669
+        width: 213
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5839bfd0496280800000000000000
+      internalID: -9049630646594938099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1669
+        width: 210
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a658d5bb6dcb150800000000000000
+      internalID: 5889818512910019080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1669
+        width: 173
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88ae3adc25f5a80800000000000000
+      internalID: -8475964930516154142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_25
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1670
+        width: 94
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0447659eb6c83090800000000000000
+      internalID: -8054469411699473395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_26
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1671
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7621723bd9eff2b0800000000000000
+      internalID: -5548459088243775876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_27
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1671
+        width: 217
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eb61f094411ec30800000000000000
+      internalID: 4386809816053890610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_28
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1672
+        width: 269
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69730d5ed46fe280800000000000000
+      internalID: -9011873423139047058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_29
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1673
+        width: 269
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e726a14dfb8262c0800000000000000
+      internalID: -4439832362789492760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_30
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1673
+        width: 260
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04463ab0cc7694740800000000000000
+      internalID: 5136750976059008064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_31
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1673
+        width: 227
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167729c6dc2c65fc0800000000000000
+      internalID: -3506401072315730079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_32
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1673
+        width: 170
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbbeecc57d93c50800000000000000
+      internalID: 6645579518770397175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1398
+        width: 167
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a899982dd02030800000000000000
+      internalID: 3468014879520631179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1399
+        width: 221
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97fc3a6a16131340800000000000000
+      internalID: 4833231127806015390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1401
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a31885688705b60800000000000000
+      internalID: 7732813078600956548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_36
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1402
+        width: 133
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a09f874cd317a10800000000000000
+      internalID: 1905372031406901882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_37
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1404
+        width: 198
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7dbdc68a10bdb0800000000000000
+      internalID: -4778290038360408424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1405
+        width: 266
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f194a3eb0412f0800000000000000
+      internalID: -1003163744650266718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_39
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1405
+        width: 161
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802f0440f118d260800000000000000
+      internalID: 7122462534318104718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_40
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1408
+        width: 214
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a945f1da211d05d0800000000000000
+      internalID: -3094798493324850780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_41
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1409
+        width: 199
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e0d67af5a4f7260800000000000000
+      internalID: 7097473312450481812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_42
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1410
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678bb2f89c8524a0800000000000000
+      internalID: -6618729488815782044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_43
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1410
+        width: 127
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f05399853ccc90800000000000000
+      internalID: -7148279643545471908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_44
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1411
+        width: 244
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9aa071f9319b970800000000000000
+      internalID: 8771063323288054188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1140
+        width: 213
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf1d27eec40f520800000000000000
+      internalID: 2733769560826182357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1141
+        width: 167
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b89694a7b3b850800000000000000
+      internalID: 6391654213697974710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1142
+        width: 242
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a407994e20a6350800000000000000
+      internalID: 6010619833529420313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_48
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1142
+        width: 226
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1019c388618db6cc0800000000000000
+      internalID: -3716639476177661695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_49
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1142
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57bbd0d25220570800000000000000
+      internalID: 8431342327825135073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_50
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1145
+        width: 157
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec08c81f1f6a1e0800000000000000
+      internalID: -2186794549295133176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_51
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1146
+        width: 247
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db823e34e31a2b690800000000000000
+      internalID: -7587825133366859587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_52
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1147
+        width: 247
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adaae1941774ce60800000000000000
+      internalID: 7981635369838488993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_53
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1148
+        width: 172
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2646d9f9a014b120800000000000000
+      internalID: 2428584421286626858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_54
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1150
+        width: 271
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c14f46798a514f0800000000000000
+      internalID: -858594785756963792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_55
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1150
+        width: 267
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34938b699b21220800000000000000
+      internalID: 2455228803857335256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 892
+        width: 266
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a98d7d327e24a510800000000000000
+      internalID: 1559422439169821093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 892
+        width: 263
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a7c3e5d3e016ae0800000000000000
+      internalID: -1557948339356665260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 893
+        width: 267
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea75b08de34d980800000000000000
+      internalID: -8515111897826611592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_59
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 893
+        width: 106
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62db64ff31f34f0800000000000000
+      internalID: -846936217797974300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_60
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 895
+        width: 246
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc5c529cb6c0030800000000000000
+      internalID: 3462260725207387415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_61
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 896
+        width: 178
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c3185da1ae20690800000000000000
+      internalID: -7637284617094874051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_62
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 896
+        width: 174
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89460068c2baf6610800000000000000
+      internalID: 1616698998964380824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_63
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 896
+        width: 157
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce977d38ee8aa30800000000000000
+      internalID: 4226890500310428924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_64
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 897
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb27d77ccbc6eb0800000000000000
+      internalID: -4725194344029307434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_65
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 899
+        width: 292
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba83ec891bdf0b0800000000000000
+      internalID: -5693199084073473032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_66
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 900
+        width: 256
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274fdbc590adba1f0800000000000000
+      internalID: -1032491955805883278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 653
+        width: 263
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472f4e8ff6ae85d0800000000000000
+      internalID: -3058323480403564730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 653
+        width: 248
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571ffbfcae286ad0800000000000000
+      internalID: -2708863855366301857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 653
+        width: 241
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3275d373b918810800000000000000
+      internalID: 1765863190460572631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_70
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 653
+        width: 158
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd10e77700d66200800000000000000
+      internalID: 173054366194867699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_71
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 653
+        width: 95
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4f37852d5182cc0800000000000000
+      internalID: -3735711897732516636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_72
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 654
+        width: 271
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991a440f2a9bb360800000000000000
+      internalID: 7186507157125863833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_73
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 654
+        width: 270
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357d5226eadda000800000000000000
+      internalID: 48935852924826941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_74
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 654
+        width: 256
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106d5eeb30e0a4e0800000000000000
+      internalID: -1972330088781488107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_75
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 654
+        width: 184
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f40bebfd9b3ad30800000000000000
+      internalID: 4441598028145512217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_76
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 655
+        width: 267
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab316aefb8608980800000000000000
+      internalID: -8538709720014177367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 418
+        width: 220
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b29903e0d6457ef0800000000000000
+      internalID: -111104752824511821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 418
+        width: 162
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad6a8e515d755740800000000000000
+      internalID: 5140152338145242531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_79
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 133
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150057f2493415e70800000000000000
+      internalID: 9102130625622900817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_80
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 418
+        width: 105
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b6314f056ac5680800000000000000
+      internalID: -8764947908147320061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_81
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 422
+        width: 263
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f07ea6599464c0800000000000000
+      internalID: -4295139547031734755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 423
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b377ac5ce92468310800000000000000
+      internalID: 1406885183290505019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_83
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 427
+        width: 268
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef91214a839c780800000000000000
+      internalID: -8662330130940952944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_84
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 427
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d33c38455a03170800000000000000
+      internalID: 8156200707574414664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_85
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 434
+        width: 101
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60430008fc08a0130800000000000000
+      internalID: 3533778486319657990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_86
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 435
+        width: 284
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176bfc02fe71775c0800000000000000
+      internalID: -4217876210194073999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_87
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 435
+        width: 266
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd70f969450f944d0800000000000000
+      internalID: -3149722218274027553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 266
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55335881e86ecfe30800000000000000
+      internalID: 4538756022453744469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_89
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 205
+        width: 268
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98aabe535e2cdaf0800000000000000
+      internalID: -370370133744768868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_90
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 205
+        width: 255
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4afc853d72dcc00800000000000000
+      internalID: 922437287362405584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_91
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 205
+        width: 215
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b5c4a3011c4af0800000000000000
+      internalID: -410934758650564297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_92
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 207
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b0739da17fc3a80800000000000000
+      internalID: -8485635903187383432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_93
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 208
+        width: 186
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516c96ee64e0f2b70800000000000000
+      internalID: 8876329088380945941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_94
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 211
+        width: 259
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928be9b5baa9e4800800000000000000
+      internalID: 598585861254068265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_95
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 211
+        width: 250
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e9e5268f7a84c0800000000000000
+      internalID: -4284471881351173907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_96
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 227
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694ff25a62919300800000000000000
+      internalID: 257147639093479776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_97
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 228
+        width: 295
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4bdd9fa8087af00800000000000000
+      internalID: 1128011566065497342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_98
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 254
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71040ea8307e27ee0800000000000000
+      internalID: -1264694542936817641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_convenience_store_core_clean_tilesheet_packed_99
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 43
+        width: 246
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92edad54ce990fe30800000000000000
+      internalID: 4535294064825392681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_0: -8898697533811706722
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_1: -1255420590920109737
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_10: 7916014071458434440
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_11: 3437013604902932609
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_12: 3371630019871041999
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_13: -3071938181663396083
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_14: 1396177223317918284
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_15: -2331757611418821731
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_16: -106328009331474315
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_17: 6041864758590163032
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_18: -3511813861701808597
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_19: 5734128383311915564
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_2: -6513836672466396820
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_20: -3397727802957318422
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_21: -7617709408268204095
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_22: -9049630646594938099
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_23: 5889818512910019080
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_24: -8475964930516154142
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_25: -8054469411699473395
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_26: -5548459088243775876
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_27: 4386809816053890610
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_28: -9011873423139047058
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_29: -4439832362789492760
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_3: 5520077654270227967
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_30: 5136750976059008064
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_31: -3506401072315730079
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_32: 6645579518770397175
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_33: 3468014879520631179
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_34: 4833231127806015390
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_35: 7732813078600956548
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_36: 1905372031406901882
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_37: -4778290038360408424
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_38: -1003163744650266718
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_39: 7122462534318104718
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_4: -5632720877029994439
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_40: -3094798493324850780
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_41: 7097473312450481812
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_42: -6618729488815782044
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_43: -7148279643545471908
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_44: 8771063323288054188
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_45: 2733769560826182357
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_46: 6391654213697974710
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_47: 6010619833529420313
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_48: -3716639476177661695
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_49: 8431342327825135073
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_5: 4716022776356304574
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_50: -2186794549295133176
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_51: -7587825133366859587
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_52: 7981635369838488993
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_53: 2428584421286626858
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_54: -858594785756963792
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_55: 2455228803857335256
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_56: 1559422439169821093
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_57: -1557948339356665260
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_58: -8515111897826611592
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_59: -846936217797974300
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_6: -7589786383517004706
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_60: 3462260725207387415
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_61: -7637284617094874051
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_62: 1616698998964380824
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_63: 4226890500310428924
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_64: -4725194344029307434
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_65: -5693199084073473032
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_66: -1032491955805883278
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_67: -3058323480403564730
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_68: -2708863855366301857
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_69: 1765863190460572631
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_7: 6114181188738018272
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_70: 173054366194867699
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_71: -3735711897732516636
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_72: 7186507157125863833
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_73: 48935852924826941
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_74: -1972330088781488107
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_75: 4441598028145512217
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_76: -8538709720014177367
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_77: -111104752824511821
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_78: 5140152338145242531
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_79: 9102130625622900817
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_8: 5534194617905145593
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_80: -8764947908147320061
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_81: -4295139547031734755
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_82: 1406885183290505019
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_83: -8662330130940952944
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_84: 8156200707574414664
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_85: 3533778486319657990
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_86: -4217876210194073999
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_87: -3149722218274027553
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_88: 4538756022453744469
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_89: -370370133744768868
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_9: -8451701318245615408
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_90: 922437287362405584
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_91: -410934758650564297
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_92: -8485635903187383432
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_93: 8876329088380945941
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_94: 598585861254068265
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_95: -4284471881351173907
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_96: 257147639093479776
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_97: 1128011566065497342
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_98: -1264694542936817641
+      topdown_modern_convenience_store_core_clean_tilesheet_packed_99: 4535294064825392681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

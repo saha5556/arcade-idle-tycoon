@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 2186edea5c5f0074aaaf714ca1c2d744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3403820040236216078
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_0
+  - first:
+      213: -8537051001950697467
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_1
+  - first:
+      213: 3488366869009266091
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_2
+  - first:
+      213: 7363321134463849767
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_3
+  - first:
+      213: -8883172393259916510
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_4
+  - first:
+      213: 7308052421213135325
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_5
+  - first:
+      213: -2281029419304511843
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_6
+  - first:
+      213: -5065095673581254600
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_7
+  - first:
+      213: -6954027696289626607
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_8
+  - first:
+      213: -601441586654956214
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_9
+  - first:
+      213: 7286001600236493561
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_10
+  - first:
+      213: 5616009810024885745
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_11
+  - first:
+      213: 453655470227270736
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_12
+  - first:
+      213: 7947615625472677121
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_13
+  - first:
+      213: -613858766877030917
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_14
+  - first:
+      213: -5025848415162425783
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_15
+  - first:
+      213: 8594935732810802713
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_16
+  - first:
+      213: 795411716722738135
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_17
+  - first:
+      213: 1318239273524476222
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_18
+  - first:
+      213: -7009624009169597731
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_19
+  - first:
+      213: -7372049382288816930
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_20
+  - first:
+      213: 2080770761501717032
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_21
+  - first:
+      213: -9095900053672777431
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_22
+  - first:
+      213: 1201984582649315358
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_23
+  - first:
+      213: -2392711113267971152
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_24
+  - first:
+      213: 3536507069427341645
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_25
+  - first:
+      213: 6836890544601001399
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_26
+  - first:
+      213: 7174973517442698916
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_27
+  - first:
+      213: 2217520087571564860
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_28
+  - first:
+      213: -1554475829899803616
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_29
+  - first:
+      213: 8063322414235109892
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_30
+  - first:
+      213: 4699256301876126607
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_31
+  - first:
+      213: -4137020023682413969
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_32
+  - first:
+      213: -8293148192600088880
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_33
+  - first:
+      213: -7649930930046695043
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_34
+  - first:
+      213: -972590312023981270
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_35
+  - first:
+      213: 28533675963110187
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_36
+  - first:
+      213: 4855557023514261873
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_37
+  - first:
+      213: 85938343502843650
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_38
+  - first:
+      213: 1305186643033096237
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_39
+  - first:
+      213: 4061431018385108565
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_40
+  - first:
+      213: 1091698454504233007
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_41
+  - first:
+      213: -1872122568524821871
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_42
+  - first:
+      213: -4295257546603288405
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_43
+  - first:
+      213: 2945896854439227051
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_44
+  - first:
+      213: -2506813267561503488
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_45
+  - first:
+      213: 502129116019301892
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_46
+  - first:
+      213: 6073299440289412514
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_47
+  - first:
+      213: 3392087417682492760
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_48
+  - first:
+      213: -7661694444840553898
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_49
+  - first:
+      213: -510631349085459488
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_50
+  - first:
+      213: -4213001059851721162
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_51
+  - first:
+      213: -8852033899976566504
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_52
+  - first:
+      213: 7763247233755279714
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_53
+  - first:
+      213: -1644861955673505668
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_54
+  - first:
+      213: -721501462417691822
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_55
+  - first:
+      213: -6838232291255843016
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_56
+  - first:
+      213: 372028507698560654
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_57
+  - first:
+      213: -9016803831988935665
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_58
+  - first:
+      213: 2414945582592589487
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_59
+  - first:
+      213: 3763240528647271557
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_60
+  - first:
+      213: 4184556149791249545
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_61
+  - first:
+      213: 2188490833324681037
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_62
+  - first:
+      213: -455815513560348928
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_63
+  - first:
+      213: 4270387100527256740
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_64
+  - first:
+      213: -1376873896317541251
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_65
+  - first:
+      213: -8271167616489057929
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_66
+  - first:
+      213: 6955916669876339052
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_67
+  - first:
+      213: -9217329722168319255
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_68
+  - first:
+      213: -5869196886128147824
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_69
+  - first:
+      213: -1738776238593040579
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_70
+  - first:
+      213: -7220126519224393388
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_71
+  - first:
+      213: 5991802326755282171
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_72
+  - first:
+      213: -3749651438763399969
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_73
+  - first:
+      213: 1998864269785535299
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_74
+  - first:
+      213: 120949026340233646
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_75
+  - first:
+      213: -6087241856360786715
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_76
+  - first:
+      213: -291955168160658073
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_77
+  - first:
+      213: 2527345521174567416
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_78
+  - first:
+      213: 1906798849070331787
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_79
+  - first:
+      213: -4242813054439287590
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_80
+  - first:
+      213: 1588050095602817446
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_81
+  - first:
+      213: 3313290662817187084
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_82
+  - first:
+      213: 8036791675669531102
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_83
+  - first:
+      213: -1798851231583251293
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_84
+  - first:
+      213: -485802815055287930
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_85
+  - first:
+      213: -1271476708309968086
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_86
+  - first:
+      213: 839527181228973706
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_87
+  - first:
+      213: 82051270221630851
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_88
+  - first:
+      213: -8694982522238553737
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_89
+  - first:
+      213: -4829213010602984916
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_90
+  - first:
+      213: -744477621308361319
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_91
+  - first:
+      213: 1643446024964673185
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_92
+  - first:
+      213: -4642918303857856871
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_93
+  - first:
+      213: 2194372668947905725
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_94
+  - first:
+      213: 6749566849058108755
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_95
+  - first:
+      213: 9034309522174033266
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_96
+  - first:
+      213: 4709923066317763325
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_97
+  - first:
+      213: -5078296080975510623
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_98
+  - first:
+      213: -3839802873304640922
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_99
+  - first:
+      213: -2431737223328156037
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_100
+  - first:
+      213: 8108800041859990049
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_101
+  - first:
+      213: -1781126177407510719
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_102
+  - first:
+      213: -6489493556128330511
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_103
+  - first:
+      213: -4838882018050913619
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_104
+  - first:
+      213: 3236362881834446579
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_105
+  - first:
+      213: 1270847597116375297
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_106
+  - first:
+      213: -2283575694475894704
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_107
+  - first:
+      213: -1109090403521460260
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_108
+  - first:
+      213: 8086194933282004485
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_109
+  - first:
+      213: 2328266009969715962
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_110
+  - first:
+      213: 2806986866846142177
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_111
+  - first:
+      213: 8601847870181375894
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_112
+  - first:
+      213: -5009154457085045750
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_113
+  - first:
+      213: 624509964496624562
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_114
+  - first:
+      213: 1636321005129114729
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_115
+  - first:
+      213: 2541760431186313107
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_116
+  - first:
+      213: 822863239830805654
+    second: topdown_modern_food_drink_mega_clean_tilesheet_packed_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1884
+        width: 166
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f05d5625b333c0d0800000000000000
+      internalID: -3403820040236216078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1887
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508065f485d468980800000000000000
+      internalID: -8537051001950697467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1890
+        width: 160
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f9896f2b296030800000000000000
+      internalID: 3488366869009266091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1895
+        width: 238
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72518da2f85cf2660800000000000000
+      internalID: 7363321134463849767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1895
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223af2df5c1a8b480800000000000000
+      internalID: -8883172393259916510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_5
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1898
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1a75615fa6b6560800000000000000
+      internalID: 7308052421213135325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_6
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1898
+        width: 142
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96932c14d72850e0800000000000000
+      internalID: -2281029419304511843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_7
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1900
+        width: 177
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83842d6225a25b9b0800000000000000
+      internalID: -5065095673581254600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_8
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1900
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cd6c77a45e7f90800000000000000
+      internalID: -6954027696289626607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_9
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1901
+        width: 167
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45b842401047a7f0800000000000000
+      internalID: -601441586654956214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_10
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1902
+        width: 195
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa160f3ad31d1560800000000000000
+      internalID: 7286001600236493561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_11
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1903
+        width: 86
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd64a5da2310fd40800000000000000
+      internalID: 5616009810024885745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1661
+        width: 176
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c2f412f35bb4600800000000000000
+      internalID: 453655470227270736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1661
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10594a79d4a9b4e60800000000000000
+      internalID: 7947615625472677121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1662
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5090234b22b77f0800000000000000
+      internalID: -613858766877030917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_15
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1662
+        width: 122
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e98479e79904ab0800000000000000
+      internalID: -5025848415162425783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1664
+        width: 141
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ef75d288574770800000000000000
+      internalID: 8594935732810802713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1664
+        width: 116
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34179fdbed90b00800000000000000
+      internalID: 795411716722738135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_18
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1665
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39356b82a35b4210800000000000000
+      internalID: 1318239273524476222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_19
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1665
+        width: 176
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda856c2a10d8be90800000000000000
+      internalID: -7009624009169597731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_20
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1666
+        width: 195
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48906452831b990800000000000000
+      internalID: -7372049382288816930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_21
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1666
+        width: 152
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223452bbf160ec10800000000000000
+      internalID: 2080770761501717032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_22
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1667
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a064e71fd4c180800000000000000
+      internalID: -9095900053672777431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_23
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1667
+        width: 161
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e100f4a0c9e4ea010800000000000000
+      internalID: 1201984582649315358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_24
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1667
+        width: 140
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb788b6be16bced0800000000000000
+      internalID: -2392711113267971152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1444
+        width: 102
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49dfd24172341130800000000000000
+      internalID: 3536507069427341645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1445
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd6b271ab381ee50800000000000000
+      internalID: 6836890544601001399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1445
+        width: 174
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec1044660a29360800000000000000
+      internalID: 7174973517442698916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_28
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1446
+        width: 200
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c390ffd45c636ce10800000000000000
+      internalID: 2217520087571564860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_29
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1446
+        width: 140
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02444eaf7746d6ae0800000000000000
+      internalID: -1554475829899803616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1447
+        width: 245
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40acde1b30da6ef60800000000000000
+      internalID: 8063322414235109892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_31
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1447
+        width: 157
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a7d575bc173140800000000000000
+      internalID: 4699256301876126607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_32
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1448
+        width: 251
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4bb3153a5696c0800000000000000
+      internalID: -4137020023682413969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_33
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1448
+        width: 250
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de166668a1d8ec80800000000000000
+      internalID: -8293148192600088880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_34
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1448
+        width: 250
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d790b46a95cf5d590800000000000000
+      internalID: -7649930930046695043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1231
+        width: 250
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2303d3a34aa082f0800000000000000
+      internalID: -972590312023981270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1231
+        width: 245
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23dae32a3f556000800000000000000
+      internalID: 28533675963110187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1231
+        width: 244
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17978351367626340800000000000000
+      internalID: 4855557023514261873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_38
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1231
+        width: 198
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8215d770513100800000000000000
+      internalID: 85938343502843650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_39
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1262
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20829f2654fc1210800000000000000
+      internalID: 1305186643033096237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_40
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1231
+        width: 132
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee89a2ef91d5830800000000000000
+      internalID: 4061431018385108565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_41
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1231
+        width: 178
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f285196d5fd762f00800000000000000
+      internalID: 1091698454504233007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_42
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1232
+        width: 243
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a061f5172e406e0800000000000000
+      internalID: -1872122568524821871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_43
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1232
+        width: 203
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba825e3c40e2464c0800000000000000
+      internalID: -4295257546603288405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_44
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1232
+        width: 201
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae6ac1c49de1e820800000000000000
+      internalID: 2945896854439227051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_45
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1232
+        width: 169
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a2c46d92063dd0800000000000000
+      internalID: -2506813267561503488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1019
+        width: 164
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e16b745cbe7f600800000000000000
+      internalID: 502129116019301892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1019
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a57709c9a1b84450800000000000000
+      internalID: 6073299440289412514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1019
+        width: 135
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d790ac88d131f20800000000000000
+      internalID: 3392087417682492760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1019
+        width: 99
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f1bdee713ca590800000000000000
+      internalID: -7661694444840553898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_50
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1020
+        width: 253
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb25925e7fd9e8f0800000000000000
+      internalID: -510631349085459488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_51
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1020
+        width: 251
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a1358bd96885c0800000000000000
+      internalID: -4213001059851721162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_52
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1020
+        width: 250
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195e2c6112472580800000000000000
+      internalID: -8852033899976566504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_53
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1020
+        width: 250
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26174874a389cbb60800000000000000
+      internalID: 7763247233755279714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_54
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1020
+        width: 250
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c68324c64c29e0800000000000000
+      internalID: -1644861955673505668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_55
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1020
+        width: 249
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2bab1e36bcf5f0800000000000000
+      internalID: -721501462417691822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 808
+        width: 173
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837071c26f7b911a0800000000000000
+      internalID: -6838232291255843016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 808
+        width: 163
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef0b7e4f5b92500800000000000000
+      internalID: 372028507698560654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 808
+        width: 89
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042be810b0edd280800000000000000
+      internalID: -9016803831988935665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 809
+        width: 250
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae7452663c938120800000000000000
+      internalID: 2414945582592589487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_60
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 809
+        width: 250
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bf528257b93430800000000000000
+      internalID: 3763240528647271557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_61
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 809
+        width: 185
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984dbf2c5a7821a30800000000000000
+      internalID: 4184556149791249545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_62
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 809
+        width: 181
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47248a51d41f5e10800000000000000
+      internalID: 2188490833324681037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_63
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 809
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0078f17943e9ca9f0800000000000000
+      internalID: -455815513560348928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_64
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 809
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a466544176734b30800000000000000
+      internalID: 4270387100527256740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_65
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 809
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742c7d7c7c54ece0800000000000000
+      internalID: -1376873896317541251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_66
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 809
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771947510e8e63d80800000000000000
+      internalID: -8271167616489057929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_67
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 810
+        width: 165
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6182337b51688060800000000000000
+      internalID: 6955916669876339052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_68
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 810
+        width: 123
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2e1840477751080800000000000000
+      internalID: -9217329722168319255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 599
+        width: 123
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c085478c6c8ea0800000000000000
+      internalID: -5869196886128147824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 600
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f95c23930aed7e0800000000000000
+      internalID: -1738776238593040579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_71
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 601
+        width: 177
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a0444f25fccb90800000000000000
+      internalID: -7220126519224393388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 601
+        width: 156
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc8b926878272350800000000000000
+      internalID: 5991802326755282171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_73
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 601
+        width: 105
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4a9f802ef86fbc0800000000000000
+      internalID: -3749651438763399969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_74
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 602
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34399c286746dbb10800000000000000
+      internalID: 1998864269785535299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_75
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 603
+        width: 212
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea160f6af72bda100800000000000000
+      internalID: 120949026340233646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_76
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 603
+        width: 163
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d9b188c5c58ba0800000000000000
+      internalID: -6087241856360786715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_77
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 603
+        width: 121
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dc1774254c2fbf0800000000000000
+      internalID: -291955168160658073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_78
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 603
+        width: 116
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d84e6c5fe21320800000000000000
+      internalID: 2527345521174567416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_79
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 604
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f5f8537f467a10800000000000000
+      internalID: 1906798849070331787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_80
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 605
+        width: 250
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad491c1a1008e15c0800000000000000
+      internalID: -4242813054439287590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_81
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 606
+        width: 177
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a95ee9e523e90610800000000000000
+      internalID: 1588050095602817446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 398
+        width: 197
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0546d2ad4c2bfd20800000000000000
+      internalID: 3313290662817187084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 398
+        width: 125
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed94912c27b688f60800000000000000
+      internalID: 8036791675669531102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_84
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 400
+        width: 224
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4d4b9e5523907e0800000000000000
+      internalID: -1798851231583251293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_85
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 485
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689aeb1e9e41249f0800000000000000
+      internalID: -485802815055287930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_86
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 400
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b500d9baeca5ee0800000000000000
+      internalID: -1271476708309968086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_87
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 400
+        width: 111
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e1078f58996ab00800000000000000
+      internalID: 839527181228973706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_88
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 401
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d0eee0231832100800000000000000
+      internalID: 82051270221630851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_89
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 402
+        width: 199
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771bdb9c677355780800000000000000
+      internalID: -8694982522238553737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_90
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 402
+        width: 174
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a70566a503bfcb0800000000000000
+      internalID: -4829213010602984916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_91
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 402
+        width: 132
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995ffae3c851ba5f0800000000000000
+      internalID: -744477621308361319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_92
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 403
+        width: 149
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae0c8dc371bec610800000000000000
+      internalID: 1643446024964673185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_93
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 403
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea461e66a019fb0800000000000000
+      internalID: -4642918303857856871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_94
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 404
+        width: 112
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc377de05af37e10800000000000000
+      internalID: 2194372668947905725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_95
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 406
+        width: 149
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3557cd9d9474bad50800000000000000
+      internalID: 6749566849058108755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 131
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dbc1405a0506d70800000000000000
+      internalID: 9034309522174033266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 205
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f94713120d5140800000000000000
+      internalID: 4709923066317763325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 206
+        width: 229
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3423dce944689b0800000000000000
+      internalID: -5078296080975510623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_99
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 206
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662172181a746bac0800000000000000
+      internalID: -3839802873304640922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_100
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 215
+        width: 221
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b763e6811ebb04ed0800000000000000
+      internalID: -2431737223328156037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_101
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 216
+        width: 125
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122ccb10dae388070800000000000000
+      internalID: 8108800041859990049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_102
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 263
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d97fad2b2847e0800000000000000
+      internalID: -1781126177407510719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_103
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 218
+        width: 135
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc8c65effa0f5a0800000000000000
+      internalID: -6489493556128330511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_104
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 220
+        width: 204
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daacc0c2176d8dcb0800000000000000
+      internalID: -4838882018050913619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_105
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 221
+        width: 220
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6000e4eed9ec20800000000000000
+      internalID: 3236362881834446579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_106
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 221
+        width: 171
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c7c50825f2a110800000000000000
+      internalID: 1270847597116375297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_107
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 224
+        width: 164
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0506c09310c1f40e0800000000000000
+      internalID: -2283575694475894704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_108
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 225
+        width: 223
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd70f4a7728bb90f0800000000000000
+      internalID: -1109090403521460260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 218
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e56d6037fe73070800000000000000
+      internalID: 8086194933282004485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_110
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 32
+        width: 170
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6cd2b999af4020800000000000000
+      internalID: 2328266009969715962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_111
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 32
+        width: 159
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0d8feeab64f620800000000000000
+      internalID: 2806986866846142177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_112
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 34
+        width: 197
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f7c1a3017ef5770800000000000000
+      internalID: 8601847870181375894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_113
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 36
+        width: 223
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0491689f88eb7ab0800000000000000
+      internalID: -5009154457085045750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_114
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 38
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb53800184baa800800000000000000
+      internalID: 624509964496624562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_115
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 46
+        width: 190
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642b39d84165b610800000000000000
+      internalID: 1636321005129114729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_116
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 50
+        width: 201
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff00535a5264320800000000000000
+      internalID: 2541760431186313107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_food_drink_mega_clean_tilesheet_packed_117
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 63
+        width: 189
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c97d4c1c56b6b00800000000000000
+      internalID: 822863239830805654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_0: -3403820040236216078
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_1: -8537051001950697467
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_10: 7286001600236493561
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_100: -2431737223328156037
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_101: 8108800041859990049
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_102: -1781126177407510719
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_103: -6489493556128330511
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_104: -4838882018050913619
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_105: 3236362881834446579
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_106: 1270847597116375297
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_107: -2283575694475894704
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_108: -1109090403521460260
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_109: 8086194933282004485
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_11: 5616009810024885745
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_110: 2328266009969715962
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_111: 2806986866846142177
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_112: 8601847870181375894
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_113: -5009154457085045750
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_114: 624509964496624562
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_115: 1636321005129114729
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_116: 2541760431186313107
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_117: 822863239830805654
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_12: 453655470227270736
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_13: 7947615625472677121
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_14: -613858766877030917
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_15: -5025848415162425783
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_16: 8594935732810802713
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_17: 795411716722738135
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_18: 1318239273524476222
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_19: -7009624009169597731
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_2: 3488366869009266091
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_20: -7372049382288816930
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_21: 2080770761501717032
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_22: -9095900053672777431
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_23: 1201984582649315358
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_24: -2392711113267971152
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_25: 3536507069427341645
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_26: 6836890544601001399
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_27: 7174973517442698916
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_28: 2217520087571564860
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_29: -1554475829899803616
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_3: 7363321134463849767
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_30: 8063322414235109892
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_31: 4699256301876126607
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_32: -4137020023682413969
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_33: -8293148192600088880
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_34: -7649930930046695043
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_35: -972590312023981270
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_36: 28533675963110187
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_37: 4855557023514261873
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_38: 85938343502843650
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_39: 1305186643033096237
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_4: -8883172393259916510
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_40: 4061431018385108565
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_41: 1091698454504233007
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_42: -1872122568524821871
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_43: -4295257546603288405
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_44: 2945896854439227051
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_45: -2506813267561503488
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_46: 502129116019301892
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_47: 6073299440289412514
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_48: 3392087417682492760
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_49: -7661694444840553898
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_5: 7308052421213135325
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_50: -510631349085459488
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_51: -4213001059851721162
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_52: -8852033899976566504
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_53: 7763247233755279714
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_54: -1644861955673505668
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_55: -721501462417691822
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_56: -6838232291255843016
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_57: 372028507698560654
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_58: -9016803831988935665
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_59: 2414945582592589487
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_6: -2281029419304511843
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_60: 3763240528647271557
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_61: 4184556149791249545
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_62: 2188490833324681037
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_63: -455815513560348928
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_64: 4270387100527256740
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_65: -1376873896317541251
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_66: -8271167616489057929
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_67: 6955916669876339052
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_68: -9217329722168319255
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_69: -5869196886128147824
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_7: -5065095673581254600
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_70: -1738776238593040579
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_71: -7220126519224393388
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_72: 5991802326755282171
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_73: -3749651438763399969
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_74: 1998864269785535299
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_75: 120949026340233646
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_76: -6087241856360786715
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_77: -291955168160658073
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_78: 2527345521174567416
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_79: 1906798849070331787
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_8: -6954027696289626607
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_80: -4242813054439287590
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_81: 1588050095602817446
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_82: 3313290662817187084
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_83: 8036791675669531102
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_84: -1798851231583251293
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_85: -485802815055287930
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_86: -1271476708309968086
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_87: 839527181228973706
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_88: 82051270221630851
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_89: -8694982522238553737
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_9: -601441586654956214
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_90: -4829213010602984916
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_91: -744477621308361319
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_92: 1643446024964673185
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_93: -4642918303857856871
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_94: 2194372668947905725
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_95: 6749566849058108755
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_96: 9034309522174033266
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_97: 4709923066317763325
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_98: -5078296080975510623
+      topdown_modern_food_drink_mega_clean_tilesheet_packed_99: -3839802873304640922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

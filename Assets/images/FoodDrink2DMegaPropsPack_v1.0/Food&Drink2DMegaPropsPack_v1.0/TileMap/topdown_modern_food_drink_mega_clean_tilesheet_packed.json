@@ -1,0 +1,1620 @@
+{
+  "type": "packed-texture-atlas",
+  "image": "topdown_modern_food_drink_mega_clean_tilesheet_packed.png",
+  "count": 115,
+  "width": 2560,
+  "height": 2112,
+  "spacing": 4,
+  "frames": {
+    "pass_warming_station": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_pass_warming_station_01.png",
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "width": 196,
+        "height": 239
+      },
+      "anchor": {
+        "x": 98,
+        "y": 223
+      }
+    },
+    "open_kitchen_display_counter": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_open_kitchen_display_counter_01.png",
+      "frame": {
+        "x": 204,
+        "y": 4,
+        "width": 236,
+        "height": 236
+      },
+      "anchor": {
+        "x": 118,
+        "y": 220
+      }
+    },
+    "pizza_oven_brick": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_pizza_oven_brick_01.png",
+      "frame": {
+        "x": 444,
+        "y": 4,
+        "width": 190,
+        "height": 233
+      },
+      "anchor": {
+        "x": 95,
+        "y": 217
+      }
+    },
+    "table_family_long": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_table_family_long_01.png",
+      "frame": {
+        "x": 638,
+        "y": 4,
+        "width": 268,
+        "height": 228
+      },
+      "anchor": {
+        "x": 134,
+        "y": 212
+      }
+    },
+    "deep_fryer_double": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_deep_fryer_double_01.png",
+      "frame": {
+        "x": 910,
+        "y": 4,
+        "width": 204,
+        "height": 228
+      },
+      "anchor": {
+        "x": 102,
+        "y": 212
+      }
+    },
+    "stage_small_lights": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_stage_small_lights_01.png",
+      "frame": {
+        "x": 1118,
+        "y": 4,
+        "width": 218,
+        "height": 225
+      },
+      "anchor": {
+        "x": 109,
+        "y": 209
+      }
+    },
+    "ashtray_outdoor": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_ashtray_outdoor_01.png",
+      "frame": {
+        "x": 1340,
+        "y": 4,
+        "width": 172,
+        "height": 225
+      },
+      "anchor": {
+        "x": 86,
+        "y": 209
+      }
+    },
+    "stove_commercial_six_burner": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_stove_commercial_six_burner_01.png",
+      "frame": {
+        "x": 1516,
+        "y": 4,
+        "width": 207,
+        "height": 223
+      },
+      "anchor": {
+        "x": 103,
+        "y": 207
+      }
+    },
+    "champagne_ice_bucket": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_champagne_ice_bucket_01.png",
+      "frame": {
+        "x": 1727,
+        "y": 4,
+        "width": 159,
+        "height": 223
+      },
+      "anchor": {
+        "x": 79,
+        "y": 207
+      }
+    },
+    "dishwasher_commercial": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_dishwasher_commercial_01.png",
+      "frame": {
+        "x": 1890,
+        "y": 4,
+        "width": 197,
+        "height": 222
+      },
+      "anchor": {
+        "x": 98,
+        "y": 206
+      }
+    },
+    "empty_bottles_crate": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_empty_bottles_crate_01.png",
+      "frame": {
+        "x": 2091,
+        "y": 4,
+        "width": 225,
+        "height": 221
+      },
+      "anchor": {
+        "x": 112,
+        "y": 205
+      }
+    },
+    "coat_hook_stand": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_coat_hook_stand_01.png",
+      "frame": {
+        "x": 2320,
+        "y": 4,
+        "width": 116,
+        "height": 220
+      },
+      "anchor": {
+        "x": 58,
+        "y": 204
+      }
+    },
+    "drink_cart_wheeled": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_drink_cart_wheeled_01.png",
+      "frame": {
+        "x": 4,
+        "y": 247,
+        "width": 206,
+        "height": 219
+      },
+      "anchor": {
+        "x": 103,
+        "y": 203
+      }
+    },
+    "plant_hanging_rope_pot": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_plant_hanging_rope_pot_01.png",
+      "frame": {
+        "x": 214,
+        "y": 247,
+        "width": 180,
+        "height": 219
+      },
+      "anchor": {
+        "x": 90,
+        "y": 203
+      }
+    },
+    "counter_window_bar": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_counter_window_bar_01.png",
+      "frame": {
+        "x": 398,
+        "y": 247,
+        "width": 212,
+        "height": 218
+      },
+      "anchor": {
+        "x": 106,
+        "y": 202
+      }
+    },
+    "jukebox": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_jukebox_01.png",
+      "frame": {
+        "x": 614,
+        "y": 247,
+        "width": 152,
+        "height": 218
+      },
+      "anchor": {
+        "x": 76,
+        "y": 202
+      }
+    },
+    "back_bar_shelf_bottles": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_back_bar_shelf_bottles_01.png",
+      "frame": {
+        "x": 770,
+        "y": 247,
+        "width": 171,
+        "height": 216
+      },
+      "anchor": {
+        "x": 85,
+        "y": 200
+      }
+    },
+    "lamp_floor_rattan": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_lamp_floor_rattan_01.png",
+      "frame": {
+        "x": 945,
+        "y": 247,
+        "width": 146,
+        "height": 216
+      },
+      "anchor": {
+        "x": 73,
+        "y": 200
+      }
+    },
+    "whiskey_bottles_row_blank": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_whiskey_bottles_row_blank_01.png",
+      "frame": {
+        "x": 1095,
+        "y": 247,
+        "width": 219,
+        "height": 215
+      },
+      "anchor": {
+        "x": 109,
+        "y": 199
+      }
+    },
+    "espresso_machine_commercial": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_espresso_machine_commercial_01.png",
+      "frame": {
+        "x": 1318,
+        "y": 247,
+        "width": 206,
+        "height": 215
+      },
+      "anchor": {
+        "x": 103,
+        "y": 199
+      }
+    },
+    "pans_commercial_pair": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_pans_commercial_pair_01.png",
+      "frame": {
+        "x": 1528,
+        "y": 247,
+        "width": 225,
+        "height": 214
+      },
+      "anchor": {
+        "x": 112,
+        "y": 198
+      }
+    },
+    "pourover_brew_station": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_pourover_brew_station_01.png",
+      "frame": {
+        "x": 1757,
+        "y": 247,
+        "width": 182,
+        "height": 214
+      },
+      "anchor": {
+        "x": 91,
+        "y": 198
+      }
+    },
+    "divider_screen_folding": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_divider_screen_folding_01.png",
+      "frame": {
+        "x": 1943,
+        "y": 247,
+        "width": 211,
+        "height": 213
+      },
+      "anchor": {
+        "x": 105,
+        "y": 197
+      }
+    },
+    "neon_frame_blank": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_neon_frame_blank_01.png",
+      "frame": {
+        "x": 2158,
+        "y": 247,
+        "width": 191,
+        "height": 213
+      },
+      "anchor": {
+        "x": 95,
+        "y": 197
+      }
+    },
+    "macaron_tower": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_macaron_tower_01.png",
+      "frame": {
+        "x": 2353,
+        "y": 247,
+        "width": 170,
+        "height": 213
+      },
+      "anchor": {
+        "x": 85,
+        "y": 197
+      }
+    },
+    "grinder_coffee": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_grinder_coffee_01.png",
+      "frame": {
+        "x": 4,
+        "y": 470,
+        "width": 132,
+        "height": 213
+      },
+      "anchor": {
+        "x": 66,
+        "y": 197
+      }
+    },
+    "griddle_flat_top": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_griddle_flat_top_01.png",
+      "frame": {
+        "x": 140,
+        "y": 470,
+        "width": 214,
+        "height": 212
+      },
+      "anchor": {
+        "x": 107,
+        "y": 196
+      }
+    },
+    "glass_washer": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_glass_washer_01.png",
+      "frame": {
+        "x": 358,
+        "y": 470,
+        "width": 204,
+        "height": 212
+      },
+      "anchor": {
+        "x": 102,
+        "y": 196
+      }
+    },
+    "table_dining_square_four": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_table_dining_square_four_01.png",
+      "frame": {
+        "x": 566,
+        "y": 470,
+        "width": 230,
+        "height": 211
+      },
+      "anchor": {
+        "x": 115,
+        "y": 195
+      }
+    },
+    "cake_stand_tiers": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_cake_stand_tiers_01.png",
+      "frame": {
+        "x": 800,
+        "y": 470,
+        "width": 170,
+        "height": 211
+      },
+      "anchor": {
+        "x": 85,
+        "y": 195
+      }
+    },
+    "floor_tile_cafe_pattern": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_floor_tile_cafe_pattern_01.png",
+      "frame": {
+        "x": 974,
+        "y": 470,
+        "width": 275,
+        "height": 210
+      },
+      "anchor": {
+        "x": 137,
+        "y": 194
+      }
+    },
+    "glass_rack_hanging": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_glass_rack_hanging_01.png",
+      "frame": {
+        "x": 1253,
+        "y": 470,
+        "width": 187,
+        "height": 210
+      },
+      "anchor": {
+        "x": 93,
+        "y": 194
+      }
+    },
+    "wall_display_window_large": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_display_window_large_01.png",
+      "frame": {
+        "x": 1444,
+        "y": 470,
+        "width": 281,
+        "height": 209
+      },
+      "anchor": {
+        "x": 140,
+        "y": 193
+      }
+    },
+    "entrance_awning_segment": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_entrance_awning_segment_01.png",
+      "frame": {
+        "x": 1729,
+        "y": 470,
+        "width": 280,
+        "height": 209
+      },
+      "anchor": {
+        "x": 140,
+        "y": 193
+      }
+    },
+    "wall_menu_lightbox_blank": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_menu_lightbox_blank_01.png",
+      "frame": {
+        "x": 2013,
+        "y": 470,
+        "width": 280,
+        "height": 209
+      },
+      "anchor": {
+        "x": 140,
+        "y": 193
+      }
+    },
+    "wall_pass_window": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_pass_window_01.png",
+      "frame": {
+        "x": 4,
+        "y": 687,
+        "width": 280,
+        "height": 209
+      },
+      "anchor": {
+        "x": 140,
+        "y": 193
+      }
+    },
+    "floor_dark_bar": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_floor_dark_bar_01.png",
+      "frame": {
+        "x": 288,
+        "y": 687,
+        "width": 275,
+        "height": 209
+      },
+      "anchor": {
+        "x": 137,
+        "y": 193
+      }
+    },
+    "floor_kitchen_antislip": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_floor_kitchen_antislip_01.png",
+      "frame": {
+        "x": 567,
+        "y": 687,
+        "width": 274,
+        "height": 209
+      },
+      "anchor": {
+        "x": 137,
+        "y": 193
+      }
+    },
+    "bar_counter_straight": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_bar_counter_straight_01.png",
+      "frame": {
+        "x": 845,
+        "y": 687,
+        "width": 228,
+        "height": 209
+      },
+      "anchor": {
+        "x": 114,
+        "y": 193
+      }
+    },
+    "cocktail_glasses_group": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_cocktail_glasses_group_01.png",
+      "frame": {
+        "x": 1077,
+        "y": 687,
+        "width": 220,
+        "height": 209
+      },
+      "anchor": {
+        "x": 110,
+        "y": 193
+      }
+    },
+    "cake_display_case_curved": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_cake_display_case_curved_01.png",
+      "frame": {
+        "x": 1301,
+        "y": 687,
+        "width": 208,
+        "height": 209
+      },
+      "anchor": {
+        "x": 104,
+        "y": 193
+      }
+    },
+    "floor_wood_restaurant": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_floor_wood_restaurant_01.png",
+      "frame": {
+        "x": 1513,
+        "y": 687,
+        "width": 273,
+        "height": 208
+      },
+      "anchor": {
+        "x": 136,
+        "y": 192
+      }
+    },
+    "table_dining_round_four": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_table_dining_round_four_01.png",
+      "frame": {
+        "x": 1790,
+        "y": 687,
+        "width": 233,
+        "height": 208
+      },
+      "anchor": {
+        "x": 116,
+        "y": 192
+      }
+    },
+    "beer_mugs_group": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_beer_mugs_group_01.png",
+      "frame": {
+        "x": 2027,
+        "y": 687,
+        "width": 231,
+        "height": 208
+      },
+      "anchor": {
+        "x": 115,
+        "y": 192
+      }
+    },
+    "milk_frother_station": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_milk_frother_station_01.png",
+      "frame": {
+        "x": 2262,
+        "y": 687,
+        "width": 199,
+        "height": 208
+      },
+      "anchor": {
+        "x": 99,
+        "y": 192
+      }
+    },
+    "wine_rack_bottles": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_wine_rack_bottles_01.png",
+      "frame": {
+        "x": 4,
+        "y": 900,
+        "width": 194,
+        "height": 208
+      },
+      "anchor": {
+        "x": 97,
+        "y": 192
+      }
+    },
+    "water_bottle_glasses_set": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_water_bottle_glasses_set_01.png",
+      "frame": {
+        "x": 202,
+        "y": 900,
+        "width": 174,
+        "height": 208
+      },
+      "anchor": {
+        "x": 87,
+        "y": 192
+      }
+    },
+    "dartboard_mounted": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_dartboard_mounted_01.png",
+      "frame": {
+        "x": 380,
+        "y": 900,
+        "width": 165,
+        "height": 208
+      },
+      "anchor": {
+        "x": 82,
+        "y": 192
+      }
+    },
+    "blender_smoothie_station": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_blender_smoothie_station_01.png",
+      "frame": {
+        "x": 549,
+        "y": 900,
+        "width": 129,
+        "height": 208
+      },
+      "anchor": {
+        "x": 64,
+        "y": 192
+      }
+    },
+    "bar_front_panel_segment": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_bar_front_panel_segment_01.png",
+      "frame": {
+        "x": 682,
+        "y": 900,
+        "width": 283,
+        "height": 207
+      },
+      "anchor": {
+        "x": 141,
+        "y": 191
+      }
+    },
+    "wall_booth_divider": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_booth_divider_01.png",
+      "frame": {
+        "x": 969,
+        "y": 900,
+        "width": 281,
+        "height": 207
+      },
+      "anchor": {
+        "x": 140,
+        "y": 191
+      }
+    },
+    "door_entrance_glass_wood_frame": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_door_entrance_glass_wood_frame_01.png",
+      "frame": {
+        "x": 1254,
+        "y": 900,
+        "width": 280,
+        "height": 207
+      },
+      "anchor": {
+        "x": 140,
+        "y": 191
+      }
+    },
+    "wall_cream_cafe": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_cream_cafe_01.png",
+      "frame": {
+        "x": 1538,
+        "y": 900,
+        "width": 280,
+        "height": 207
+      },
+      "anchor": {
+        "x": 140,
+        "y": 191
+      }
+    },
+    "wall_wainscot_restaurant": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_wainscot_restaurant_01.png",
+      "frame": {
+        "x": 1822,
+        "y": 900,
+        "width": 280,
+        "height": 207
+      },
+      "anchor": {
+        "x": 140,
+        "y": 191
+      }
+    },
+    "wall_tile_kitchen": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_tile_kitchen_01.png",
+      "frame": {
+        "x": 2106,
+        "y": 900,
+        "width": 279,
+        "height": 207
+      },
+      "anchor": {
+        "x": 139,
+        "y": 191
+      }
+    },
+    "bench_waiting": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_bench_waiting_01.png",
+      "frame": {
+        "x": 4,
+        "y": 1112,
+        "width": 203,
+        "height": 207
+      },
+      "anchor": {
+        "x": 101,
+        "y": 191
+      }
+    },
+    "qr_stand_blank_frame": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_qr_stand_blank_frame_01.png",
+      "frame": {
+        "x": 211,
+        "y": 1112,
+        "width": 193,
+        "height": 207
+      },
+      "anchor": {
+        "x": 96,
+        "y": 191
+      }
+    },
+    "takeaway_cups_stack": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_takeaway_cups_stack_01.png",
+      "frame": {
+        "x": 408,
+        "y": 1112,
+        "width": 119,
+        "height": 207
+      },
+      "anchor": {
+        "x": 59,
+        "y": 191
+      }
+    },
+    "door_kitchen_double_swing": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_door_kitchen_double_swing_01.png",
+      "frame": {
+        "x": 531,
+        "y": 1112,
+        "width": 280,
+        "height": 206
+      },
+      "anchor": {
+        "x": 140,
+        "y": 190
+      }
+    },
+    "wall_brick_bar": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/fooddrink_architecture_wall_brick_bar_01.png",
+      "frame": {
+        "x": 815,
+        "y": 1112,
+        "width": 280,
+        "height": 206
+      },
+      "anchor": {
+        "x": 140,
+        "y": 190
+      }
+    },
+    "booth_sofa_single": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_booth_sofa_single_01.png",
+      "frame": {
+        "x": 1099,
+        "y": 1112,
+        "width": 215,
+        "height": 206
+      },
+      "anchor": {
+        "x": 107,
+        "y": 190
+      }
+    },
+    "takeout_boxes_stack": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_takeout_boxes_stack_01.png",
+      "frame": {
+        "x": 1318,
+        "y": 1112,
+        "width": 211,
+        "height": 206
+      },
+      "anchor": {
+        "x": 105,
+        "y": 190
+      }
+    },
+    "ice_machine": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_ice_machine_01.png",
+      "frame": {
+        "x": 1533,
+        "y": 1112,
+        "width": 209,
+        "height": 206
+      },
+      "anchor": {
+        "x": 104,
+        "y": 190
+      }
+    },
+    "sandwich_press_grill": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_sandwich_press_grill_01.png",
+      "frame": {
+        "x": 1746,
+        "y": 1112,
+        "width": 178,
+        "height": 206
+      },
+      "anchor": {
+        "x": 89,
+        "y": 190
+      }
+    },
+    "drink_menu_stand_blank": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_drink_menu_stand_blank_01.png",
+      "frame": {
+        "x": 1928,
+        "y": 1112,
+        "width": 152,
+        "height": 206
+      },
+      "anchor": {
+        "x": 76,
+        "y": 190
+      }
+    },
+    "vase_single_flower": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_vase_single_flower_01.png",
+      "frame": {
+        "x": 2084,
+        "y": 1112,
+        "width": 104,
+        "height": 206
+      },
+      "anchor": {
+        "x": 52,
+        "y": 190
+      }
+    },
+    "beer_tap_tower": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_beer_tap_tower_01.png",
+      "frame": {
+        "x": 2192,
+        "y": 1112,
+        "width": 195,
+        "height": 205
+      },
+      "anchor": {
+        "x": 97,
+        "y": 189
+      }
+    },
+    "cat_scratcher_corner": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_cat_scratcher_corner_01.png",
+      "frame": {
+        "x": 2391,
+        "y": 1112,
+        "width": 153,
+        "height": 205
+      },
+      "anchor": {
+        "x": 76,
+        "y": 189
+      }
+    },
+    "shaker_set": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_shaker_set_01.png",
+      "frame": {
+        "x": 4,
+        "y": 1323,
+        "width": 153,
+        "height": 205
+      },
+      "anchor": {
+        "x": 76,
+        "y": 189
+      }
+    },
+    "straws_coasters_set": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_straws_coasters_set_01.png",
+      "frame": {
+        "x": 161,
+        "y": 1323,
+        "width": 173,
+        "height": 204
+      },
+      "anchor": {
+        "x": 86,
+        "y": 188
+      }
+    },
+    "table_window_two": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_table_window_two_01.png",
+      "frame": {
+        "x": 338,
+        "y": 1323,
+        "width": 207,
+        "height": 203
+      },
+      "anchor": {
+        "x": 103,
+        "y": 187
+      }
+    },
+    "sugar_creamer_pair": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_sugar_creamer_pair_01.png",
+      "frame": {
+        "x": 549,
+        "y": 1323,
+        "width": 186,
+        "height": 203
+      },
+      "anchor": {
+        "x": 93,
+        "y": 187
+      }
+    },
+    "chair_wood_cafe": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_chair_wood_cafe_01.png",
+      "frame": {
+        "x": 739,
+        "y": 1323,
+        "width": 135,
+        "height": 203
+      },
+      "anchor": {
+        "x": 67,
+        "y": 187
+      }
+    },
+    "menu_board_easel_blank": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_menu_board_easel_blank_01.png",
+      "frame": {
+        "x": 878,
+        "y": 1323,
+        "width": 152,
+        "height": 202
+      },
+      "anchor": {
+        "x": 76,
+        "y": 186
+      }
+    },
+    "booth_sofa_double": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_booth_sofa_double_01.png",
+      "frame": {
+        "x": 1034,
+        "y": 1323,
+        "width": 242,
+        "height": 201
+      },
+      "anchor": {
+        "x": 121,
+        "y": 185
+      }
+    },
+    "bartender_tools_station": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_bartender_tools_station_01.png",
+      "frame": {
+        "x": 1280,
+        "y": 1323,
+        "width": 193,
+        "height": 201
+      },
+      "anchor": {
+        "x": 96,
+        "y": 185
+      }
+    },
+    "takeout_bag_paper_blank": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_takeout_bag_paper_blank_01.png",
+      "frame": {
+        "x": 1477,
+        "y": 1323,
+        "width": 151,
+        "height": 201
+      },
+      "anchor": {
+        "x": 75,
+        "y": 185
+      }
+    },
+    "flip_sign_symbol_only": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_flip_sign_symbol_only_01.png",
+      "frame": {
+        "x": 1632,
+        "y": 1323,
+        "width": 146,
+        "height": 201
+      },
+      "anchor": {
+        "x": 73,
+        "y": 185
+      }
+    },
+    "chair_dining_padded": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_chair_dining_padded_01.png",
+      "frame": {
+        "x": 1782,
+        "y": 1323,
+        "width": 145,
+        "height": 200
+      },
+      "anchor": {
+        "x": 72,
+        "y": 184
+      }
+    },
+    "pool_table": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_pool_table_01.png",
+      "frame": {
+        "x": 1931,
+        "y": 1323,
+        "width": 280,
+        "height": 199
+      },
+      "anchor": {
+        "x": 140,
+        "y": 183
+      }
+    },
+    "delivery_box_insulated": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_delivery_box_insulated_01.png",
+      "frame": {
+        "x": 2215,
+        "y": 1323,
+        "width": 207,
+        "height": 198
+      },
+      "anchor": {
+        "x": 103,
+        "y": 182
+      }
+    },
+    "bus_tub_dishes": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_bus_tub_dishes_01.png",
+      "frame": {
+        "x": 4,
+        "y": 1532,
+        "width": 227,
+        "height": 197
+      },
+      "anchor": {
+        "x": 113,
+        "y": 181
+      }
+    },
+    "high_chair_child": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_high_chair_child_01.png",
+      "frame": {
+        "x": 235,
+        "y": 1532,
+        "width": 155,
+        "height": 197
+      },
+      "anchor": {
+        "x": 77,
+        "y": 181
+      }
+    },
+    "place_setting_complete": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_place_setting_complete_01.png",
+      "frame": {
+        "x": 394,
+        "y": 1532,
+        "width": 254,
+        "height": 195
+      },
+      "anchor": {
+        "x": 127,
+        "y": 179
+      }
+    },
+    "stock_pot_large": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_stock_pot_large_01.png",
+      "frame": {
+        "x": 652,
+        "y": 1532,
+        "width": 210,
+        "height": 195
+      },
+      "anchor": {
+        "x": 105,
+        "y": 179
+      }
+    },
+    "tip_jar": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_tip_jar_01.png",
+      "frame": {
+        "x": 866,
+        "y": 1532,
+        "width": 141,
+        "height": 195
+      },
+      "anchor": {
+        "x": 70,
+        "y": 179
+      }
+    },
+    "host_stand_podium": {
+      "category": "restaurant_fixtures",
+      "file": "Tiles/RestaurantFixtures/fooddrink_restaurant_fixtures_host_stand_podium_01.png",
+      "frame": {
+        "x": 1011,
+        "y": 1532,
+        "width": 143,
+        "height": 194
+      },
+      "anchor": {
+        "x": 71,
+        "y": 178
+      }
+    },
+    "stool_bar_metal_row": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_stool_bar_metal_row_01.png",
+      "frame": {
+        "x": 1158,
+        "y": 1532,
+        "width": 229,
+        "height": 193
+      },
+      "anchor": {
+        "x": 114,
+        "y": 177
+      }
+    },
+    "booth_leather": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_booth_leather_01.png",
+      "frame": {
+        "x": 1391,
+        "y": 1532,
+        "width": 204,
+        "height": 193
+      },
+      "anchor": {
+        "x": 102,
+        "y": 177
+      }
+    },
+    "order_stand_blank": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_order_stand_blank_01.png",
+      "frame": {
+        "x": 1599,
+        "y": 1532,
+        "width": 162,
+        "height": 193
+      },
+      "anchor": {
+        "x": 81,
+        "y": 177
+      }
+    },
+    "bookshelf_wall_cafe": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_bookshelf_wall_cafe_01.png",
+      "frame": {
+        "x": 1765,
+        "y": 1532,
+        "width": 179,
+        "height": 192
+      },
+      "anchor": {
+        "x": 89,
+        "y": 176
+      }
+    },
+    "candle_holder_table": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_candle_holder_table_01.png",
+      "frame": {
+        "x": 1948,
+        "y": 1532,
+        "width": 121,
+        "height": 192
+      },
+      "anchor": {
+        "x": 60,
+        "y": 176
+      }
+    },
+    "plates_tower": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_plates_tower_01.png",
+      "frame": {
+        "x": 2073,
+        "y": 1532,
+        "width": 142,
+        "height": 191
+      },
+      "anchor": {
+        "x": 71,
+        "y": 175
+      }
+    },
+    "condiment_rack": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_condiment_rack_01.png",
+      "frame": {
+        "x": 2219,
+        "y": 1532,
+        "width": 179,
+        "height": 189
+      },
+      "anchor": {
+        "x": 89,
+        "y": 173
+      }
+    },
+    "napkin_dispenser": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_napkin_dispenser_01.png",
+      "frame": {
+        "x": 4,
+        "y": 1733,
+        "width": 161,
+        "height": 189
+      },
+      "anchor": {
+        "x": 80,
+        "y": 173
+      }
+    },
+    "table_high_round": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_table_high_round_01.png",
+      "frame": {
+        "x": 169,
+        "y": 1733,
+        "width": 154,
+        "height": 189
+      },
+      "anchor": {
+        "x": 77,
+        "y": 173
+      }
+    },
+    "sofa_corner_set": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_sofa_corner_set_01.png",
+      "frame": {
+        "x": 327,
+        "y": 1733,
+        "width": 259,
+        "height": 188
+      },
+      "anchor": {
+        "x": 129,
+        "y": 172
+      }
+    },
+    "stool_wood_high": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_stool_wood_high_01.png",
+      "frame": {
+        "x": 590,
+        "y": 1733,
+        "width": 125,
+        "height": 188
+      },
+      "anchor": {
+        "x": 62,
+        "y": 172
+      }
+    },
+    "bar_counter_corner": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_bar_counter_corner_01.png",
+      "frame": {
+        "x": 719,
+        "y": 1733,
+        "width": 251,
+        "height": 179
+      },
+      "anchor": {
+        "x": 125,
+        "y": 163
+      }
+    },
+    "dice_cards_set": {
+      "category": "bar_fixtures",
+      "file": "Tiles/BarFixtures/fooddrink_bar_fixtures_dice_cards_set_01.png",
+      "frame": {
+        "x": 974,
+        "y": 1733,
+        "width": 188,
+        "height": 178
+      },
+      "anchor": {
+        "x": 94,
+        "y": 162
+      }
+    },
+    "napkin_holder_wood": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_napkin_holder_wood_01.png",
+      "frame": {
+        "x": 1166,
+        "y": 1733,
+        "width": 165,
+        "height": 176
+      },
+      "anchor": {
+        "x": 82,
+        "y": 160
+      }
+    },
+    "string_lights_warm_segment": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_string_lights_warm_segment_01.png",
+      "frame": {
+        "x": 1335,
+        "y": 1733,
+        "width": 234,
+        "height": 174
+      },
+      "anchor": {
+        "x": 117,
+        "y": 158
+      }
+    },
+    "lemon_board_knife": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_lemon_board_knife_01.png",
+      "frame": {
+        "x": 1573,
+        "y": 1733,
+        "width": 250,
+        "height": 173
+      },
+      "anchor": {
+        "x": 125,
+        "y": 157
+      }
+    },
+    "cake_plate_slice": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_cake_plate_slice_01.png",
+      "frame": {
+        "x": 1827,
+        "y": 1733,
+        "width": 201,
+        "height": 173
+      },
+      "anchor": {
+        "x": 100,
+        "y": 157
+      }
+    },
+    "bread_basket": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_bread_basket_01.png",
+      "frame": {
+        "x": 2032,
+        "y": 1733,
+        "width": 194,
+        "height": 170
+      },
+      "anchor": {
+        "x": 97,
+        "y": 154
+      }
+    },
+    "bottle_openers_set": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_bottle_openers_set_01.png",
+      "frame": {
+        "x": 2230,
+        "y": 1733,
+        "width": 253,
+        "height": 169
+      },
+      "anchor": {
+        "x": 126,
+        "y": 153
+      }
+    },
+    "snack_bowls_pair": {
+      "category": "bar_props",
+      "file": "Tiles/BarProps/fooddrink_bar_props_snack_bowls_pair_01.png",
+      "frame": {
+        "x": 4,
+        "y": 1926,
+        "width": 248,
+        "height": 169
+      },
+      "anchor": {
+        "x": 124,
+        "y": 153
+      }
+    },
+    "magazines_stack_blank": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_magazines_stack_blank_01.png",
+      "frame": {
+        "x": 256,
+        "y": 1926,
+        "width": 200,
+        "height": 169
+      },
+      "anchor": {
+        "x": 100,
+        "y": 153
+      }
+    },
+    "latte_cup_art": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_latte_cup_art_01.png",
+      "frame": {
+        "x": 460,
+        "y": 1926,
+        "width": 189,
+        "height": 169
+      },
+      "anchor": {
+        "x": 94,
+        "y": 153
+      }
+    },
+    "menu_book_blank": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_menu_book_blank_01.png",
+      "frame": {
+        "x": 653,
+        "y": 1926,
+        "width": 227,
+        "height": 167
+      },
+      "anchor": {
+        "x": 113,
+        "y": 151
+      }
+    },
+    "donut_tray": {
+      "category": "cafe_props",
+      "file": "Tiles/CafeProps/fooddrink_cafe_props_donut_tray_01.png",
+      "frame": {
+        "x": 884,
+        "y": 1926,
+        "width": 253,
+        "height": 165
+      },
+      "anchor": {
+        "x": 126,
+        "y": 149
+      }
+    },
+    "table_cafe_small_round": {
+      "category": "cafe_fixtures",
+      "file": "Tiles/CafeFixtures/fooddrink_cafe_fixtures_table_cafe_small_round_01.png",
+      "frame": {
+        "x": 1141,
+        "y": 1926,
+        "width": 162,
+        "height": 163
+      },
+      "anchor": {
+        "x": 81,
+        "y": 147
+      }
+    },
+    "serving_tray_round": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_serving_tray_round_01.png",
+      "frame": {
+        "x": 1307,
+        "y": 1926,
+        "width": 220,
+        "height": 155
+      },
+      "anchor": {
+        "x": 110,
+        "y": 139
+      }
+    },
+    "cutting_board_vegetables": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_cutting_board_vegetables_01.png",
+      "frame": {
+        "x": 1531,
+        "y": 1926,
+        "width": 231,
+        "height": 151
+      },
+      "anchor": {
+        "x": 115,
+        "y": 135
+      }
+    },
+    "kids_placemat_crayons": {
+      "category": "restaurant_props",
+      "file": "Tiles/RestaurantProps/fooddrink_restaurant_props_kids_placemat_crayons_01.png",
+      "frame": {
+        "x": 1766,
+        "y": 1926,
+        "width": 219,
+        "height": 138
+      },
+      "anchor": {
+        "x": 109,
+        "y": 122
+      }
+    }
+  }
+}

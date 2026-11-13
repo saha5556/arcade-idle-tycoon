@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 19ab51a29f64d83428b19ca414c0f67c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7599559888586802652
+    second: topdown_modern_hospital_core_clean_tilesheet_0
+  - first:
+      213: 1676852794208377765
+    second: topdown_modern_hospital_core_clean_tilesheet_1
+  - first:
+      213: -1407163799165875466
+    second: topdown_modern_hospital_core_clean_tilesheet_2
+  - first:
+      213: 8047566815406572072
+    second: topdown_modern_hospital_core_clean_tilesheet_3
+  - first:
+      213: 2880541832819158375
+    second: topdown_modern_hospital_core_clean_tilesheet_4
+  - first:
+      213: 7584300782594304767
+    second: topdown_modern_hospital_core_clean_tilesheet_5
+  - first:
+      213: 6680263343541996828
+    second: topdown_modern_hospital_core_clean_tilesheet_6
+  - first:
+      213: -5154765401127867692
+    second: topdown_modern_hospital_core_clean_tilesheet_7
+  - first:
+      213: 649936094845118899
+    second: topdown_modern_hospital_core_clean_tilesheet_8
+  - first:
+      213: 7191472864140467573
+    second: topdown_modern_hospital_core_clean_tilesheet_9
+  - first:
+      213: 1950454117309474740
+    second: topdown_modern_hospital_core_clean_tilesheet_10
+  - first:
+      213: 2871502996382702394
+    second: topdown_modern_hospital_core_clean_tilesheet_11
+  - first:
+      213: 3747937504805005038
+    second: topdown_modern_hospital_core_clean_tilesheet_12
+  - first:
+      213: -607330568203288573
+    second: topdown_modern_hospital_core_clean_tilesheet_13
+  - first:
+      213: -129917114145268646
+    second: topdown_modern_hospital_core_clean_tilesheet_14
+  - first:
+      213: 2453859212857632398
+    second: topdown_modern_hospital_core_clean_tilesheet_15
+  - first:
+      213: 9090565390274433135
+    second: topdown_modern_hospital_core_clean_tilesheet_16
+  - first:
+      213: 8022154050489633866
+    second: topdown_modern_hospital_core_clean_tilesheet_17
+  - first:
+      213: 1216089626585512265
+    second: topdown_modern_hospital_core_clean_tilesheet_18
+  - first:
+      213: 4445810835297993881
+    second: topdown_modern_hospital_core_clean_tilesheet_19
+  - first:
+      213: -8961883932299751743
+    second: topdown_modern_hospital_core_clean_tilesheet_20
+  - first:
+      213: -7890644700241478639
+    second: topdown_modern_hospital_core_clean_tilesheet_21
+  - first:
+      213: 5883325752274016763
+    second: topdown_modern_hospital_core_clean_tilesheet_22
+  - first:
+      213: 6560125153477524490
+    second: topdown_modern_hospital_core_clean_tilesheet_23
+  - first:
+      213: -4996444496695841228
+    second: topdown_modern_hospital_core_clean_tilesheet_24
+  - first:
+      213: 8534525645511298414
+    second: topdown_modern_hospital_core_clean_tilesheet_25
+  - first:
+      213: -3645359314070059159
+    second: topdown_modern_hospital_core_clean_tilesheet_26
+  - first:
+      213: 37806857881758094
+    second: topdown_modern_hospital_core_clean_tilesheet_27
+  - first:
+      213: 2388790068877830650
+    second: topdown_modern_hospital_core_clean_tilesheet_28
+  - first:
+      213: -9080425282701676518
+    second: topdown_modern_hospital_core_clean_tilesheet_29
+  - first:
+      213: -9124236347318752918
+    second: topdown_modern_hospital_core_clean_tilesheet_30
+  - first:
+      213: 2254242447054733820
+    second: topdown_modern_hospital_core_clean_tilesheet_31
+  - first:
+      213: 396011582606822073
+    second: topdown_modern_hospital_core_clean_tilesheet_32
+  - first:
+      213: -5391371677938228481
+    second: topdown_modern_hospital_core_clean_tilesheet_33
+  - first:
+      213: -8357835910829061905
+    second: topdown_modern_hospital_core_clean_tilesheet_34
+  - first:
+      213: 6158924705171648140
+    second: topdown_modern_hospital_core_clean_tilesheet_35
+  - first:
+      213: 7974756461999001238
+    second: topdown_modern_hospital_core_clean_tilesheet_36
+  - first:
+      213: -429952329999113721
+    second: topdown_modern_hospital_core_clean_tilesheet_37
+  - first:
+      213: -4692218037877724864
+    second: topdown_modern_hospital_core_clean_tilesheet_38
+  - first:
+      213: 460810699410998671
+    second: topdown_modern_hospital_core_clean_tilesheet_39
+  - first:
+      213: 8157375189793979535
+    second: topdown_modern_hospital_core_clean_tilesheet_40
+  - first:
+      213: -3352761013132774227
+    second: topdown_modern_hospital_core_clean_tilesheet_41
+  - first:
+      213: -1800129474569737134
+    second: topdown_modern_hospital_core_clean_tilesheet_42
+  - first:
+      213: -3804440724042618306
+    second: topdown_modern_hospital_core_clean_tilesheet_43
+  - first:
+      213: -9180009886879076719
+    second: topdown_modern_hospital_core_clean_tilesheet_44
+  - first:
+      213: -2134431206419492550
+    second: topdown_modern_hospital_core_clean_tilesheet_45
+  - first:
+      213: 5817484240137832879
+    second: topdown_modern_hospital_core_clean_tilesheet_46
+  - first:
+      213: 2682239257072736627
+    second: topdown_modern_hospital_core_clean_tilesheet_47
+  - first:
+      213: -8648039320680138143
+    second: topdown_modern_hospital_core_clean_tilesheet_48
+  - first:
+      213: -2409614066414970202
+    second: topdown_modern_hospital_core_clean_tilesheet_49
+  - first:
+      213: -3003411378501414666
+    second: topdown_modern_hospital_core_clean_tilesheet_50
+  - first:
+      213: 2784226379305616502
+    second: topdown_modern_hospital_core_clean_tilesheet_51
+  - first:
+      213: -1701249680177208312
+    second: topdown_modern_hospital_core_clean_tilesheet_52
+  - first:
+      213: -6841002140399246291
+    second: topdown_modern_hospital_core_clean_tilesheet_53
+  - first:
+      213: -901034689856458927
+    second: topdown_modern_hospital_core_clean_tilesheet_54
+  - first:
+      213: 8723894948302551720
+    second: topdown_modern_hospital_core_clean_tilesheet_55
+  - first:
+      213: 5988994154132437093
+    second: topdown_modern_hospital_core_clean_tilesheet_56
+  - first:
+      213: 548268084607966991
+    second: topdown_modern_hospital_core_clean_tilesheet_57
+  - first:
+      213: 3538567915307714820
+    second: topdown_modern_hospital_core_clean_tilesheet_58
+  - first:
+      213: 5415036110377766459
+    second: topdown_modern_hospital_core_clean_tilesheet_59
+  - first:
+      213: -6208764781748247592
+    second: topdown_modern_hospital_core_clean_tilesheet_60
+  - first:
+      213: 3899018799715478897
+    second: topdown_modern_hospital_core_clean_tilesheet_61
+  - first:
+      213: 1212654767165486591
+    second: topdown_modern_hospital_core_clean_tilesheet_62
+  - first:
+      213: -5216418413142774870
+    second: topdown_modern_hospital_core_clean_tilesheet_63
+  - first:
+      213: 4232801448265050119
+    second: topdown_modern_hospital_core_clean_tilesheet_64
+  - first:
+      213: -6297814983540943975
+    second: topdown_modern_hospital_core_clean_tilesheet_65
+  - first:
+      213: 127435151441262896
+    second: topdown_modern_hospital_core_clean_tilesheet_66
+  - first:
+      213: 7805458062359990110
+    second: topdown_modern_hospital_core_clean_tilesheet_67
+  - first:
+      213: -668247601193621184
+    second: topdown_modern_hospital_core_clean_tilesheet_68
+  - first:
+      213: -2218356032928202229
+    second: topdown_modern_hospital_core_clean_tilesheet_69
+  - first:
+      213: 4589639488220161264
+    second: topdown_modern_hospital_core_clean_tilesheet_70
+  - first:
+      213: 4272929008039786885
+    second: topdown_modern_hospital_core_clean_tilesheet_71
+  - first:
+      213: -989784330564647164
+    second: topdown_modern_hospital_core_clean_tilesheet_72
+  - first:
+      213: 5594621389554029726
+    second: topdown_modern_hospital_core_clean_tilesheet_73
+  - first:
+      213: -7182437756936925060
+    second: topdown_modern_hospital_core_clean_tilesheet_74
+  - first:
+      213: -9064250438791329221
+    second: topdown_modern_hospital_core_clean_tilesheet_75
+  - first:
+      213: -2659226138866417498
+    second: topdown_modern_hospital_core_clean_tilesheet_76
+  - first:
+      213: -8438752307013269144
+    second: topdown_modern_hospital_core_clean_tilesheet_77
+  - first:
+      213: -5915780876955026898
+    second: topdown_modern_hospital_core_clean_tilesheet_78
+  - first:
+      213: -3342126551300967694
+    second: topdown_modern_hospital_core_clean_tilesheet_79
+  - first:
+      213: 698799043152050532
+    second: topdown_modern_hospital_core_clean_tilesheet_80
+  - first:
+      213: 4608525811259662840
+    second: topdown_modern_hospital_core_clean_tilesheet_81
+  - first:
+      213: -1308257993647799271
+    second: topdown_modern_hospital_core_clean_tilesheet_82
+  - first:
+      213: -5105391287286931234
+    second: topdown_modern_hospital_core_clean_tilesheet_83
+  - first:
+      213: -7505109173884386130
+    second: topdown_modern_hospital_core_clean_tilesheet_84
+  - first:
+      213: 8042425877272566562
+    second: topdown_modern_hospital_core_clean_tilesheet_85
+  - first:
+      213: 2916024597636695728
+    second: topdown_modern_hospital_core_clean_tilesheet_86
+  - first:
+      213: -2705690256415063229
+    second: topdown_modern_hospital_core_clean_tilesheet_87
+  - first:
+      213: 3534094613752646516
+    second: topdown_modern_hospital_core_clean_tilesheet_88
+  - first:
+      213: -7969932054979628344
+    second: topdown_modern_hospital_core_clean_tilesheet_89
+  - first:
+      213: 590945563333692700
+    second: topdown_modern_hospital_core_clean_tilesheet_90
+  - first:
+      213: 8844894810945804746
+    second: topdown_modern_hospital_core_clean_tilesheet_91
+  - first:
+      213: 273961830852937962
+    second: topdown_modern_hospital_core_clean_tilesheet_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2831
+        width: 217
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd50688547f077960800000000000000
+      internalID: 7599559888586802652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2831
+        width: 197
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab59636bb0654710800000000000000
+      internalID: 1676852794208377765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2831
+        width: 197
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6facde9eaffb87ce0800000000000000
+      internalID: -1407163799165875466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2831
+        width: 158
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c78a7163beaf60800000000000000
+      internalID: 8047566815406572072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2831
+        width: 80
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da6d1098db9f720800000000000000
+      internalID: 2880541832819158375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2831
+        width: 131
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2040e069d04960800000000000000
+      internalID: 7584300782594304767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2831
+        width: 185
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d42ed0e1015bc50800000000000000
+      internalID: 6680263343541996828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2831
+        width: 200
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daac45cd289678b0800000000000000
+      internalID: -5154765401127867692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2575
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a2fb4f69050900800000000000000
+      internalID: 649936094845118899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2575
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d14f6c77e3dc360800000000000000
+      internalID: 7191472864140467573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2575
+        width: 133
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7edec8fa7611b10800000000000000
+      internalID: 1950454117309474740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2575
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5cd6e2c0a9d720800000000000000
+      internalID: 2871502996382702394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2575
+        width: 147
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6244e9d49530430800000000000000
+      internalID: 3747937504805005038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2575
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c105e0145297f0800000000000000
+      internalID: -607330568203288573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2575
+        width: 157
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c9021b211723ef0800000000000000
+      internalID: -129917114145268646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 2575
+        width: 106
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86e237f3fbdd0220800000000000000
+      internalID: 2453859212857632398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2319
+        width: 133
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6094cefe0d282e70800000000000000
+      internalID: 9090565390274433135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2319
+        width: 163
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c45e01b9a645f60800000000000000
+      internalID: 8022154050489633866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2319
+        width: 133
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949baaf721b60e010800000000000000
+      internalID: 1216089626585512265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2319
+        width: 113
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99405885661b2bd30800000000000000
+      internalID: 4445810835297993881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2319
+        width: 148
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0ef0bb0ef0a380800000000000000
+      internalID: -8961883932299751743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2319
+        width: 119
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cb949937cce7290800000000000000
+      internalID: -7890644700241478639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2319
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9533ab995c5a150800000000000000
+      internalID: 5883325752274016763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2319
+        width: 208
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf12fe11f3a0b50800000000000000
+      internalID: 6560125153477524490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2063
+        width: 123
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2d7ad33019aab0800000000000000
+      internalID: -4996444496695841228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2063
+        width: 143
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d89235bd9b07670800000000000000
+      internalID: 8534525645511298414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2063
+        width: 115
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967413e8405196dc0800000000000000
+      internalID: -3645359314070059159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2063
+        width: 98
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89ad1e0321568000800000000000000
+      internalID: 37806857881758094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2063
+        width: 108
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9a17a49efa62120800000000000000
+      internalID: 2388790068877830650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2063
+        width: 126
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a103717c059dbf180800000000000000
+      internalID: -9080425282701676518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2063
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69ab576263306180800000000000000
+      internalID: -9124236347318752918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2063
+        width: 172
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10e46ef8da84f10800000000000000
+      internalID: 2254242447054733820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1807
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba483caf6aee7500800000000000000
+      internalID: 396011582606822073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1807
+        width: 212
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e36c06000e25b0800000000000000
+      internalID: -5391371677938228481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1807
+        width: 181
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c7045580030c80800000000000000
+      internalID: -8357835910829061905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1807
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e22225365e87550800000000000000
+      internalID: 6158924705171648140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1807
+        width: 185
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e83b700c60cae60800000000000000
+      internalID: 7974756461999001238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1807
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7022d0442a0880af0800000000000000
+      internalID: -429952329999113721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1807
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0492e931e84e1eeb0800000000000000
+      internalID: -4692218037877724864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1807
+        width: 191
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85871fb3e0256600800000000000000
+      internalID: 460810699410998671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1551
+        width: 194
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c3147f381d43170800000000000000
+      internalID: 8157375189793979535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1551
+        width: 208
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4317b4f999871d0800000000000000
+      internalID: -3352761013132774227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1551
+        width: 100
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6f86c7c7a407e0800000000000000
+      internalID: -1800129474569737134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1551
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae86a7159e33bc0800000000000000
+      internalID: -3804440724042618306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1551
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eaff945ad0a9080800000000000000
+      internalID: -9180009886879076719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1551
+        width: 191
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a319bdf502af062e0800000000000000
+      internalID: -2134431206419492550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1551
+        width: 166
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa949d3181bdbb050800000000000000
+      internalID: 5817484240137832879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1551
+        width: 142
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799d68a46a393520800000000000000
+      internalID: 2682239257072736627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1295
+        width: 187
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aff3f9e0efbf780800000000000000
+      internalID: -8648039320680138143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1295
+        width: 175
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1d85f5c45f8ed0800000000000000
+      internalID: -2409614066414970202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1295
+        width: 181
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09e06934db156d0800000000000000
+      internalID: -3003411378501414666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1295
+        width: 185
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67488c8f32f83a620800000000000000
+      internalID: 2784226379305616502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1295
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8046ac2fd62f368e0800000000000000
+      internalID: -1701249680177208312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1295
+        width: 163
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24e0d96cc0ef01a0800000000000000
+      internalID: -6841002140399246291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1295
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2dc439b1ee73f0800000000000000
+      internalID: -901034689856458927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1295
+        width: 99
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf56bfb30811970800000000000000
+      internalID: 8723894948302551720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1039
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56874feb37e2d1350800000000000000
+      internalID: 5988994154132437093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1039
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fddb80be6db9700800000000000000
+      internalID: 548268084607966991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1039
+        width: 173
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409c28555c48b1130800000000000000
+      internalID: 3538567915307714820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1039
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ecafcf6a2162b40800000000000000
+      internalID: 5415036110377766459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1039
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a0f1935906d9a0800000000000000
+      internalID: -6208764781748247592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1039
+        width: 179
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6c91c0f81c1630800000000000000
+      internalID: 3899018799715478897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1039
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53518f51734d010800000000000000
+      internalID: 1212654767165486591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1039
+        width: 116
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab61dc471f8b97b0800000000000000
+      internalID: -5216418413142774870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 783
+        width: 138
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708e898ad7eedba30800000000000000
+      internalID: 4232801448265050119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 783
+        width: 162
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d8e4c3aaa998a0800000000000000
+      internalID: -6297814983540943975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_66
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 783
+        width: 75
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039fd85589db4c100800000000000000
+      internalID: 127435151441262896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_67
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 783
+        width: 126
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0d2ca0ce825c60800000000000000
+      internalID: 7805458062359990110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 783
+        width: 220
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e8d4e858e9b6f0800000000000000
+      internalID: -668247601193621184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 783
+        width: 116
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0248fff0f0d631e0800000000000000
+      internalID: -2218356032928202229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 783
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e77e2ccca1bf30800000000000000
+      internalID: 4589639488220161264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_71
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 783
+        width: 104
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5897caa3b4e7c4b30800000000000000
+      internalID: 4272929008039786885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 527
+        width: 204
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407427c35649342f0800000000000000
+      internalID: -989784330564647164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 527
+        width: 177
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e949b21238614ad40800000000000000
+      internalID: 5594621389554029726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_74
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 527
+        width: 81
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70db6c0aead25c90800000000000000
+      internalID: -7182437756936925060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_75
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 527
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0aa81040553280800000000000000
+      internalID: -9064250438791329221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 527
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00f677ae7881bd0800000000000000
+      internalID: -2659226138866417498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 527
+        width: 241
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86947f8bc7783ea80800000000000000
+      internalID: -8438752307013269144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 527
+        width: 243
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2afb04b2ace6eda0800000000000000
+      internalID: -5915780876955026898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_79
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 527
+        width: 242
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2fd43eb916e91d0800000000000000
+      internalID: -3342126551300967694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 271
+        width: 241
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f5700702a2b900800000000000000
+      internalID: 698799043152050532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_81
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 271
+        width: 246
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e95eeec5c4ff30800000000000000
+      internalID: 4608525811259662840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_82
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 271
+        width: 248
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914ce06494228dde0800000000000000
+      internalID: -1308257993647799271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_83
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 271
+        width: 246
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed063e97ca10629b0800000000000000
+      internalID: -5105391287286931234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 271
+        width: 243
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4881a58fe78d790800000000000000
+      internalID: -7505109173884386130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 271
+        width: 248
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9d3b89bf6c9f60800000000000000
+      internalID: 8042425877272566562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 271
+        width: 246
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6cf6afbecc77820800000000000000
+      internalID: 2916024597636695728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_87
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 271
+        width: 245
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34305221c05737ad0800000000000000
+      internalID: -2705690256415063229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 247
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b0957a350ab0130800000000000000
+      internalID: 3534094613752646516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 252
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2b0f2c50d156190800000000000000
+      internalID: -7969932054979628344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_90
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 97
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0910ebd5733800800000000000000
+      internalID: 590945563333692700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_91
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 15
+        width: 245
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9de12e7f06fba70800000000000000
+      internalID: 8844894810945804746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_modern_hospital_core_clean_tilesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 15
+        width: 244
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8410a65de4dc300800000000000000
+      internalID: 273961830852937962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      topdown_modern_hospital_core_clean_tilesheet_0: 7599559888586802652
+      topdown_modern_hospital_core_clean_tilesheet_1: 1676852794208377765
+      topdown_modern_hospital_core_clean_tilesheet_10: 1950454117309474740
+      topdown_modern_hospital_core_clean_tilesheet_11: 2871502996382702394
+      topdown_modern_hospital_core_clean_tilesheet_12: 3747937504805005038
+      topdown_modern_hospital_core_clean_tilesheet_13: -607330568203288573
+      topdown_modern_hospital_core_clean_tilesheet_14: -129917114145268646
+      topdown_modern_hospital_core_clean_tilesheet_15: 2453859212857632398
+      topdown_modern_hospital_core_clean_tilesheet_16: 9090565390274433135
+      topdown_modern_hospital_core_clean_tilesheet_17: 8022154050489633866
+      topdown_modern_hospital_core_clean_tilesheet_18: 1216089626585512265
+      topdown_modern_hospital_core_clean_tilesheet_19: 4445810835297993881
+      topdown_modern_hospital_core_clean_tilesheet_2: -1407163799165875466
+      topdown_modern_hospital_core_clean_tilesheet_20: -8961883932299751743
+      topdown_modern_hospital_core_clean_tilesheet_21: -7890644700241478639
+      topdown_modern_hospital_core_clean_tilesheet_22: 5883325752274016763
+      topdown_modern_hospital_core_clean_tilesheet_23: 6560125153477524490
+      topdown_modern_hospital_core_clean_tilesheet_24: -4996444496695841228
+      topdown_modern_hospital_core_clean_tilesheet_25: 8534525645511298414
+      topdown_modern_hospital_core_clean_tilesheet_26: -3645359314070059159
+      topdown_modern_hospital_core_clean_tilesheet_27: 37806857881758094
+      topdown_modern_hospital_core_clean_tilesheet_28: 2388790068877830650
+      topdown_modern_hospital_core_clean_tilesheet_29: -9080425282701676518
+      topdown_modern_hospital_core_clean_tilesheet_3: 8047566815406572072
+      topdown_modern_hospital_core_clean_tilesheet_30: -9124236347318752918
+      topdown_modern_hospital_core_clean_tilesheet_31: 2254242447054733820
+      topdown_modern_hospital_core_clean_tilesheet_32: 396011582606822073
+      topdown_modern_hospital_core_clean_tilesheet_33: -5391371677938228481
+      topdown_modern_hospital_core_clean_tilesheet_34: -8357835910829061905
+      topdown_modern_hospital_core_clean_tilesheet_35: 6158924705171648140
+      topdown_modern_hospital_core_clean_tilesheet_36: 7974756461999001238
+      topdown_modern_hospital_core_clean_tilesheet_37: -429952329999113721
+      topdown_modern_hospital_core_clean_tilesheet_38: -4692218037877724864
+      topdown_modern_hospital_core_clean_tilesheet_39: 460810699410998671
+      topdown_modern_hospital_core_clean_tilesheet_4: 2880541832819158375
+      topdown_modern_hospital_core_clean_tilesheet_40: 8157375189793979535
+      topdown_modern_hospital_core_clean_tilesheet_41: -3352761013132774227
+      topdown_modern_hospital_core_clean_tilesheet_42: -1800129474569737134
+      topdown_modern_hospital_core_clean_tilesheet_43: -3804440724042618306
+      topdown_modern_hospital_core_clean_tilesheet_44: -9180009886879076719
+      topdown_modern_hospital_core_clean_tilesheet_45: -2134431206419492550
+      topdown_modern_hospital_core_clean_tilesheet_46: 5817484240137832879
+      topdown_modern_hospital_core_clean_tilesheet_47: 2682239257072736627
+      topdown_modern_hospital_core_clean_tilesheet_48: -8648039320680138143
+      topdown_modern_hospital_core_clean_tilesheet_49: -2409614066414970202
+      topdown_modern_hospital_core_clean_tilesheet_5: 7584300782594304767
+      topdown_modern_hospital_core_clean_tilesheet_50: -3003411378501414666
+      topdown_modern_hospital_core_clean_tilesheet_51: 2784226379305616502
+      topdown_modern_hospital_core_clean_tilesheet_52: -1701249680177208312
+      topdown_modern_hospital_core_clean_tilesheet_53: -6841002140399246291
+      topdown_modern_hospital_core_clean_tilesheet_54: -901034689856458927
+      topdown_modern_hospital_core_clean_tilesheet_55: 8723894948302551720
+      topdown_modern_hospital_core_clean_tilesheet_56: 5988994154132437093
+      topdown_modern_hospital_core_clean_tilesheet_57: 548268084607966991
+      topdown_modern_hospital_core_clean_tilesheet_58: 3538567915307714820
+      topdown_modern_hospital_core_clean_tilesheet_59: 5415036110377766459
+      topdown_modern_hospital_core_clean_tilesheet_6: 6680263343541996828
+      topdown_modern_hospital_core_clean_tilesheet_60: -6208764781748247592
+      topdown_modern_hospital_core_clean_tilesheet_61: 3899018799715478897
+      topdown_modern_hospital_core_clean_tilesheet_62: 1212654767165486591
+      topdown_modern_hospital_core_clean_tilesheet_63: -5216418413142774870
+      topdown_modern_hospital_core_clean_tilesheet_64: 4232801448265050119
+      topdown_modern_hospital_core_clean_tilesheet_65: -6297814983540943975
+      topdown_modern_hospital_core_clean_tilesheet_66: 127435151441262896
+      topdown_modern_hospital_core_clean_tilesheet_67: 7805458062359990110
+      topdown_modern_hospital_core_clean_tilesheet_68: -668247601193621184
+      topdown_modern_hospital_core_clean_tilesheet_69: -2218356032928202229
+      topdown_modern_hospital_core_clean_tilesheet_7: -5154765401127867692
+      topdown_modern_hospital_core_clean_tilesheet_70: 4589639488220161264
+      topdown_modern_hospital_core_clean_tilesheet_71: 4272929008039786885
+      topdown_modern_hospital_core_clean_tilesheet_72: -989784330564647164
+      topdown_modern_hospital_core_clean_tilesheet_73: 5594621389554029726
+      topdown_modern_hospital_core_clean_tilesheet_74: -7182437756936925060
+      topdown_modern_hospital_core_clean_tilesheet_75: -9064250438791329221
+      topdown_modern_hospital_core_clean_tilesheet_76: -2659226138866417498
+      topdown_modern_hospital_core_clean_tilesheet_77: -8438752307013269144
+      topdown_modern_hospital_core_clean_tilesheet_78: -5915780876955026898
+      topdown_modern_hospital_core_clean_tilesheet_79: -3342126551300967694
+      topdown_modern_hospital_core_clean_tilesheet_8: 649936094845118899
+      topdown_modern_hospital_core_clean_tilesheet_80: 698799043152050532
+      topdown_modern_hospital_core_clean_tilesheet_81: 4608525811259662840
+      topdown_modern_hospital_core_clean_tilesheet_82: -1308257993647799271
+      topdown_modern_hospital_core_clean_tilesheet_83: -5105391287286931234
+      topdown_modern_hospital_core_clean_tilesheet_84: -7505109173884386130
+      topdown_modern_hospital_core_clean_tilesheet_85: 8042425877272566562
+      topdown_modern_hospital_core_clean_tilesheet_86: 2916024597636695728
+      topdown_modern_hospital_core_clean_tilesheet_87: -2705690256415063229
+      topdown_modern_hospital_core_clean_tilesheet_88: 3534094613752646516
+      topdown_modern_hospital_core_clean_tilesheet_89: -7969932054979628344
+      topdown_modern_hospital_core_clean_tilesheet_9: 7191472864140467573
+      topdown_modern_hospital_core_clean_tilesheet_90: 590945563333692700
+      topdown_modern_hospital_core_clean_tilesheet_91: 8844894810945804746
+      topdown_modern_hospital_core_clean_tilesheet_92: 273961830852937962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
